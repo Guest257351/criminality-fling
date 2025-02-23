@@ -473,7 +473,7 @@ if validPlace then
         heartbeat()
         -- gui library
         local libstring
-        for _,v in pairs({'https://cdn.guest.gay/libs/rayfield.lua', "https://sirius.menu/rayfield"}) do -- the backup wont actually work since Cube-07 uses a custom version of rayfield
+        for _,v in pairs({'https://raw.githubusercontent.com/Guest257351/criminality-fling/refs/heads/main/rayfield.lua', 'https://cdn.guest.gay/libs/rayfield.lua', "https://sirius.menu/rayfield"}) do -- the backup wont actually work since Cube-07 uses a custom version of rayfield
             if pcall(function()
                 libstring = game:HttpGet(v)
             end) then
