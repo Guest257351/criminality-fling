@@ -10,5 +10,4 @@ Fling/Cube-07
 An unfinished rewrite by [itslush](https://github.com/Itslush) that was supposed to fix the spaghetti code created by a 2 year old codebase that was created by someone who didnt even know the language at the time.
 
 ## [rayfield.lua](https://github.com/Guest257351/criminality-fling/blob/main/rayfield.lua)
-A modified version of the rayfield UI library, fixes some bugs and also adds functionality that was required for autofilling text inputs.  
-The loadstring at [guest.gay](https://cdn.guest.gay/libs/rayfield.lua) will remain up for the foreseeable so you don't need to modify any code.
+A modified version of the rayfield UI library, fixes some bugs and also adds functionality that was required for autofilling text inputs.
